@@ -7,12 +7,12 @@ Reports are published here immediately upon completion.
 
 | Scope | Auditor | Target Date | Status |
 |-------|---------|-------------|--------|
-| NVXO Token + Vesting Contracts | CertiK | Q3 2025 | 🔄 Scheduled |
-| Bridge Protocol | Halborn | Q3 2025 | 🔄 Scheduled |
-| DEX Smart Contracts | Trail of Bits | Q4 2025 | 🔄 Scheduled |
-| Tokenization (ERC-1400) | CertiK + Halborn | Q4 2025 | 🔄 Scheduled |
-| Marketplace Contracts | Quantstamp | Q4 2025 | 🔄 Scheduled |
-| Governance (Governor + Timelock) | OpenZeppelin | Q1 2026 | 🔄 Scheduled |
+| NVXO Token + Vesting Contracts | CertiK | Q3 2026 | 🔄 Scheduled |
+| Bridge Protocol | Halborn | Q3 2026 | 🔄 Scheduled |
+| DEX Smart Contracts | Trail of Bits | Q2 2026 | 🔄 Scheduled |
+| Tokenization (ERC-1400) | CertiK + Halborn | Q3 2026 | 🔄 Scheduled |
+| Marketplace Contracts | Quantstamp | Q4 2026 | 🔄 Scheduled |
+| Governance (Governor + Timelock) | OpenZeppelin | Q14 2026 | 🔄 Scheduled |
 
 ## Bug Bounty
 
